@@ -1,0 +1,151 @@
+Script started on 2024-03-23 11:27:13-05:00 [TERM="xterm-256color" TTY="/dev/pts/16" COLUMNS="31" LINES="37"]
+
+
+Welcome to ChefGPT
+
+Your AI assistant to all things
+cooking and food preparation
+
+	 1. Pass a list of ingredients to know the dish name
+
+	 2. Pass a dish name to get the recipe.
+
+	 3.Pass a recipe to get feedback on how to make it better.
+
+
+You can enter:
+	      1. List of ingredients
+	      2. Dish name
+	      3. Recipe for a dish.
+
+chicken breat,  st, olive oil, garlic
+
+---
+Generating chat completion with Mitzsuyi:
+
+With chicken breast, olive oil, and garlic, you could make a flavorful dish like "Garlic Herb Grilled Chicken." It's simple yet delicious and perfect for a quick meal. Enjoy cooking!
+
+
+---
+Generating chat completion with Rodolphe:
+
+A dish you can make with those ingredients is "Garlic and Herb Grilled Chicken Breast." Enjoy cooking!
+
+
+---
+Generating chat completion with Lorien:
+
+With the ingredients chicken breast, olive oil, and garlic, you could make a delicious dish called "Garlic Chicken Breast." This usually involves marinating the chicken in garlic, olive oil, and herbs, then cooking it to juicy perfection. Enjoy your meal!
+
+
+---
+Generating chat completion with Pablo:
+
+With chicken breast, olive oil, and garlic, you can make a delicious dish called "Garlic Olive Oil Chicken." It's a simple yet flavorful recipe that involves marinating the chicken in a mixture of olive oil, minced garlic, salt, and pepper, and then cooking it until golden and cooked through. Enjoy your meal!
+
+
+---
+Generating chat completion with Ariel:
+
+With chicken breast, olive oil, and garlic, you could make a delicious dish called "Garlic Herb Chicken." Enjoy cooking!
+
+
+
+
+You can enter:
+	      1. List of ingredients
+	      2. Dish name
+	      3. Recipe for a dish.
+
+Garlic c Chicken Breast
+
+---
+Generating chat completion with Mitzsuyi:
+
+I see you're asking for a recipe for Garlic Chicken Breast. Here is some feedback on the recipe:
+
+1. Specify the cooking method: Are you grilling, baking, or pan-searing the chicken breast?
+2. Mention seasoning: Consider adding herbs and spices like thyme, rosemary, or paprika for added flavor.
+3. Cooking time and temperature: Make sure to include details on cooking times and temperatures to ensure the chicken is cooked perfectly.
+4. Presentation: You can suggest garnishes or serving suggestions to enhance the dish's appeal.
+
+If these details are missing or you need further assistance, feel free to ask!
+
+
+---
+Generating chat completion with Rodolphe:
+
+I'm familiar with recipes for Garlic Chicken Breast. Would you like a traditional recipe or a healthier version?
+
+
+---
+Generating chat completion with Lorien:
+
+I appreciate that recipe! However, I would recommend adding more seasoning or herbs to enhance the flavor of the dish. You could consider including some additional ingredients like lemon juice, thyme, or rosemary to make the garlic chicken breast even more delightful. Enjoy your meal!
+
+
+---
+Generating chat completion with Pablo:
+
+For the dish "Garlic Chicken Breast," the recipe can vary, but a common approach is to marinate chicken breasts in olive oil, minced garlic, salt, pepper, and perhaps some herbs such as thyme or rosemary before grilling or sautéing them. One criticism of this recipe is to make sure not to overcook the chicken breast, as it can easily become dry and tough. It's essential to cook chicken breasts just until they reach an internal temperature of 165°F (74°C) for the best results. Enjoy your meal!
+
+
+---
+Generating chat completion with Ariel:
+
+I see you mentioned "Garlic Chicken Breast." The recipe sounds delicious, but it's essential to ensure that the garlic is not burnt when cooking. This can lead to a bitter flavor. Make sure to cook the garlic on low heat to avoid this issue. Enjoy your meal preparation!
+
+
+
+
+You can enter:
+	      1. List of ingredients
+	      2. Dish name
+	      3. Recipe for a dish.
+
+marinate chicken breasts in olive oil, minced garlic, salt, pepper, and perhaps some herbs such as thyme or rosemary before grilling or sautéing them
+
+---
+Generating chat completion with Mitzsuyi:
+
+The recipe to marinate chicken breasts in olive oil, minced garlic, salt, pepper, and herbs like thyme or rosemary before grilling or sautéing them sounds fantastic! Just a small suggestion: You might want to consider avoiding excessive marinating time to prevent the acidity in garlic from breaking down the proteins in the chicken and making it tough. Enjoy your delicious Garlic Chicken Breasts!
+
+
+---
+Generating chat completion with Rodolphe:
+
+Marinating chicken breasts in olive oil, garlic, salt, pepper, and herbs like thyme or rosemary is a fantastic idea! Just ensure not to marinate the chicken for too long, as the high acidity from the garlic can start to break down the chicken meat. Around 30 minutes to 2 hours is typically enough time for marinating chicken breasts. Enjoy your cooking!
+
+
+---
+Generating chat completion with Lorien:
+
+This recipe for marinating chicken breasts in olive oil, minced garlic, salt, pepper, and herbs like thyme or rosemary before grilling or sautéing is excellent! It will surely infuse the chicken with flavorful ingredients. Just make sure not to marinate the chicken for too long, as the acid in the garlic can start to "cook" the meat and turn it mushy. Enjoy your delicious garlic herb chicken!
+
+
+---
+Generating chat completion with Pablo:
+
+Marinating chicken breasts in olive oil, minced garlic, salt, pepper, and herbs like thyme or rosemary before grilling or sautéing is a fantastic way to infuse the meat with flavor. However, one potential improvement to this recipe is to ensure that the chicken is properly seasoned throughout the marinating process, allowing enough time for the flavors to penetrate the meat. Additionally, consider not over-marinating the chicken, as it can sometimes result in a mushy texture due to the acidity in garlic marinades. Enjoy your meal!
+
+
+---
+Generating chat completion with Ariel:
+
+Your recipe for marinating chicken breasts in olive oil, minced garlic, salt, pepper, and herbs like thyme or rosemary before grilling or sautéing sounds wonderful. Just remember not to marinate them for too long, as the acid in garlic can toughen the meat if left too long. Enjoy your cooking!
+
+
+
+
+
+You can enter:
+	      1. List of ingredients
+	      2. Dish name
+	      3. Recipe for a dish.
+
+^CTraceback (most recent call last):
+  File "/home/rodoard/AI/Generative-AI-Applications/Lesson-04/chefGPT/main.py", line 16, in <module>
+    user_input = input()
+KeyboardInterrupt
+
+Script done on 2024-03-23 11:30:23-05:00 [COMMAND_EXIT_CODE="130"]
